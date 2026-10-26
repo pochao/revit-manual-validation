@@ -1,0 +1,4 @@
+interface:
+  display_name: "Revit 人工驗證 RVT 製作"
+  short_description: "製作含中文步驟、可操作試作區與完成對照的 Revit 人工驗證模型"
+  default_prompt: "使用 $revit-manual-validation，依目前插件版本製作或更新可手動驗證的 RVT，包含試作區、完成對照、中文圖紙與原生檢查結果。"
